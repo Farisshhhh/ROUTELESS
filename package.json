@@ -1,0 +1,12 @@
+{
+  "name": "routeless",
+  "version": "1.0.0",
+  "description": "ROUTELESS — rural student mobility + digital campus. Full-stack demo: static frontend + zero-dependency Node.js API.",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
